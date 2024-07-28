@@ -75,7 +75,7 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghost9933&&count_private=true&?show_icons=true&locale=en&theme=tokyonight" alt="ghost9933" /></p>
 
 
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={ghost9933}&theme={tokyonight}" alt="ghost9933" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghost9933&theme=tokyonight" alt="ghost9933" /></p>
 
 
 ![](https://komarev.com/ghpvc/?username=ghost9933&color=orange&style=for-the-badge&label=Tech+Bros)
