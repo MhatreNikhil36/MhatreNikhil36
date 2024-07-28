@@ -15,6 +15,14 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
   August 2017 - July 2021  
   GPA: 3.54/4.0
 
+
+## 🛠️ Skills and Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,aws,bootstrap,c,java,cpp,css,django,docker,eclipse,firebase,gcp,git,github,html,idea,java,js,kotlin,kubernetes,linux,mysql,nodejs,ps,py,vscode,information,snowflake,Scala,spark" />
+  </a>
+</p>
+
 ## 💻 Skills
 
 - **Programming Languages:** Java, Python, C, HTML, CSS, JavaScript, TypeScript, XML, SQL, Scala
@@ -62,7 +70,8 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
 
 ## 📊 GitHub Stats
 
-![Ram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghost9933&show_icons=true&theme=radical)
+
+![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghost9933&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghost9933&layout=compact&theme=radical)
 
 
