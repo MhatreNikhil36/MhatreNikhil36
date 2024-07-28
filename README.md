@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
 ## 🛠️ Skills and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,aws,bootstrap,c,java,cpp,css,django,docker,eclipse,firebase,gcp,git,github,html,idea,java,js,kotlin,kubernetes,linux,mysql,nodejs,ps,py,vscode,information,snowflake,scala,spark" />
+    <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,java,scala,cpp,css,django,docker,eclipse,firebase,gcp,git,github,html,idea,java,js,kotlin,kubernetes,linux,mysql,nodejs,ps,py,vscode" />
   </a>
 </p>
 
