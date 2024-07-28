@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
 
 ## 📊 GitHub Stats
 
-![Ram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghsot9933&show_icons=true&theme=radical)
+![Ram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghost9933&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghost9933&layout=compact&theme=radical)
 
 
