@@ -1,3 +1,8 @@
+
+
+
+
+
 # Nikhil Mhatre
 
 Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Computer Science at the University of Texas at Arlington, with a focus on Cloud Computing, Data Analytics, and Software Engineering. Feel free to explore my repositories and connect with me!
@@ -72,12 +77,20 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
 ## 📊 GitHub Stats
 
 
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghost9933&theme=github_dark" alt="Nikhil Mhatre's Stats" /></p>
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghost9933&theme=github_dark" alt="Profile Details" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghost9933&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Nikhil Mhatre's Stats" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghost9933&&count_private=true&?show_icons=true&locale=en&theme=github_dark" alt="Nikhil Mhatre's Stats" /></p>
 
+<p align="Left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghost9933&&count_private=true&?show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
+</p>
+
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghost9933&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
 
 ![](https://komarev.com/ghpvc/?username=ghost9933&color=orange&style=for-the-badge&label=Tech+Bros)
 
