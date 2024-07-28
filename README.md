@@ -70,13 +70,11 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
 ## 📊 GitHub Stats
 
 
-![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghost9933&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghost9933&layout=compact&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghost9933&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ghost9933" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghost9933&&count_private=true&?show_icons=true&locale=en&theme=tokyonight" alt="ghost9933" /></p>
 
-## 🎓 Extracurricular Activities
-
-Member of the CSI’s technical team and organizer of coding competitions and web development workshops.
+![](https://komarev.com/ghpvc/?username=ghost9933&color=orange&style=for-the-badge&label=Tech+Bros)
 
 ---
 
