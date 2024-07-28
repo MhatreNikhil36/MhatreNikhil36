@@ -2,6 +2,17 @@
 
 Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Computer Science at the University of Texas at Arlington, with a focus on Cloud Computing, Data Analytics, and Software Engineering. Feel free to explore my repositories and connect with me!
 
+
+## 🌐 Connect with Me
+
+- **Email:** [nxm2555@mavs.uta.edu](mailto:nxm2555@mavs.uta.edu)
+- **LinkedIn:** [My LinkedIn](#)
+- **GitHub:** [My GitHub](#)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-mhatre-365785191/)
+[![Personal Website](https://img.shields.io/badge/Website-Visit-blue)](https://ghost9933.github.io/NikhilMhatrePortFolio/)
+
+
 ## 📚 Education
 
 - **Master of Science in Computer Science**  
@@ -58,24 +69,14 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
 - SnowPro Core Certified
 - MTA Certified in JavaScript
 
-## 🌐 Connect with Me
-
-- **Email:** [nxm2555@mavs.uta.edu](mailto:nxm2555@mavs.uta.edu)
-- **LinkedIn:** [My LinkedIn](#)
-- **GitHub:** [My GitHub](#)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-mhatre-365785191/)
-[![Personal Website](https://img.shields.io/badge/Website-Visit-blue)](https://ghost9933.github.io/NikhilMhatrePortFolio/)
-
 ## 📊 GitHub Stats
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghost9933&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ghost9933" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghost9933&theme=github_dark" alt="Nikhil Mhatre's Stats" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghost9933&&count_private=true&?show_icons=true&locale=en&theme=tokyonight" alt="ghost9933" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghost9933&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Nikhil Mhatre's Stats" /></p>
 
-
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghost9933&theme=tokyonight" alt="ghost9933" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghost9933&&count_private=true&?show_icons=true&locale=en&theme=github_dark" alt="Nikhil Mhatre's Stats" /></p>
 
 
 ![](https://komarev.com/ghpvc/?username=ghost9933&color=orange&style=for-the-badge&label=Tech+Bros)
