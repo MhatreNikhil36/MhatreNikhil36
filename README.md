@@ -57,6 +57,15 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
 - **LinkedIn:** [My LinkedIn](#)
 - **GitHub:** [My GitHub](#)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-mhatre-365785191/)
+[![Personal Website](https://img.shields.io/badge/Website-Visit-blue)](https://ghost9933.github.io/NikhilMhatrePortFolio/)
+
+## 📊 GitHub Stats
+
+![Ram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghsot9933&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghost9933&layout=compact&theme=radical)
+
+
 ## 🎓 Extracurricular Activities
 
 Member of the CSI’s technical team and organizer of coding competitions and web development workshops.
