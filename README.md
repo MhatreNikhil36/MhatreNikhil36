@@ -18,6 +18,49 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
 [![Personal Website](https://img.shields.io/badge/Website-Visit-blue)](https://ghost9933.github.io/NikhilMhatrePortFolio/)
 
 
+
+
+
+## 📊 leetcode Stats
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Nikhil-Mhatre?ext=heatmap&theme=dark)
+
+## 📊 GitHub Stats
+
+
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghost9933&theme=github_dark" alt="Profile Details" />
+</p>
+
+
+
+<p align="Left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghost9933&&count_private=true&?show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
+</p>
+
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghost9933&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+![](https://komarev.com/ghpvc/?username=ghost9933&color=orange&style=for-the-badge&label=Tech+Bros)
+
+
+
+## 🛠️ Skills and Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,java,scala,cpp,css,django,docker,eclipse,firebase,gcp,git,github,html,idea,java,js,kotlin,kubernetes,linux,mysql,nodejs,ps,py,vscode" />
+  </a>
+</p>
+
+
+- **Programming Languages:** Java, Python, C, HTML, CSS, JavaScript, TypeScript, XML, SQL, Scala
+- **Frameworks:** Node.js, Express.js, Firebase, OpenCV, Spark, Django, Hadoop
+- **Tools:** GitHub, Jenkins, CI/CD, AWS, GCP, Docker, Kubernetes, Snowflake, Informatica PC, IICS
+- **Databases:** SQL Server, Cosmos DB, MariaDB, MongoDB, AWS Aurora, AWS Dynamo DB
+- **Miscellaneous:** Excel, Power BI, ServiceNow, TensorFlow, Rest APIs, Postman
+
 ## 📚 Education
 
 - **Master of Science in Computer Science**  
@@ -74,25 +117,6 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
 - SnowPro Core Certified
 - MTA Certified in JavaScript
 
-## 📊 GitHub Stats
-
-
-<p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghost9933&theme=github_dark" alt="Profile Details" />
-</p>
-
-
-
-<p align="Left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghost9933&&count_private=true&?show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
-</p>
-
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghost9933&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-
-![](https://komarev.com/ghpvc/?username=ghost9933&color=orange&style=for-the-badge&label=Tech+Bros)
 
 ---
 
