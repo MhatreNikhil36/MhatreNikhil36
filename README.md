@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
 ## 🌐 Connect with Me
 
 - **Email:** [nxm2555@mavs.uta.edu](mailto:nxm2555@mavs.uta.edu)
-- **LinkedIn:** [My LinkedIn](#)
-- **GitHub:** [My GitHub](#)
+- **LinkedIn:** [My LinkedIn](www.linkedin.com/in/nikhil-nandkumar-mhatre)
+- **GitHub:** [My GitHub](https://github.com/ghost9933)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-mhatre-365785191/)
 [![Personal Website](https://img.shields.io/badge/Website-Visit-blue)](https://ghost9933.github.io/NikhilMhatrePortFolio/)
