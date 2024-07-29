@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
 
 
@@ -7,15 +10,15 @@
 
 Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Computer Science at the University of Texas at Arlington, with a focus on Cloud Computing, Data Analytics, and Software Engineering. Feel free to explore my repositories and connect with me!
 
-
+![](https://komarev.com/ghpvc/?username=ghost9933&color=orange&style=for-the-badge&label=Profile+Views)
 ## 🌐 Connect with Me
 
-- **Email:** [nxm2555@mavs.uta.edu](mailto:nxm2555@mavs.uta.edu)
-- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/nikhil-nandkumar-mhatre)
-- **GitHub:** [My GitHub](https://github.com/ghost9933)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-mhatre-365785191/)
-[![Personal Website](https://img.shields.io/badge/Website-Visit-blue)](https://ghost9933.github.io/NikhilMhatrePortFolio/)
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:nxm2555@mavs.uta.edu)
+[![Email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mhatrenikhil36@gmail.com)
+[![My GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ghost9933)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nikhil-nandkumar-mhatre)
+[![Personal Website](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ghost9933.github.io/NikhilMhatrePortFolio/)
 
 
 
@@ -43,7 +46,7 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghost9933&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=ghost9933&color=orange&style=for-the-badge&label=Tech+Bros)
+
 
 
 
@@ -74,20 +77,6 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
   August 2017 - July 2021  
   GPA: 3.54/4.0
 
-
-## 🛠️ Skills and Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,java,scala,cpp,css,django,docker,eclipse,firebase,gcp,git,github,html,idea,java,js,kotlin,kubernetes,linux,mysql,nodejs,ps,py,vscode" />
-  </a>
-</p>
-
-
-- **Programming Languages:** Java, Python, C, HTML, CSS, JavaScript, TypeScript, XML, SQL, Scala
-- **Frameworks:** Node.js, Express.js, Firebase, OpenCV, Spark, Django, Hadoop
-- **Tools:** GitHub, Jenkins, CI/CD, AWS, GCP, Docker, Kubernetes, Snowflake, Informatica PC, IICS
-- **Databases:** SQL Server, Cosmos DB, MariaDB, MongoDB, AWS Aurora, AWS Dynamo DB
-- **Miscellaneous:** Excel, Power BI, ServiceNow, TensorFlow, Rest APIs, Postman
 
 ## 👨‍💻 Professional Experience
 
@@ -121,3 +110,7 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
 ---
 
 Thank you for visiting my profile. Let's connect and collaborate on future projects!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
