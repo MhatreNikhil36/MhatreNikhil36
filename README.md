@@ -32,6 +32,7 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
 
 
 <p align="left">
+  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghost9933&theme=github_dark" alt="Profile Details" />
 </p>
 
@@ -47,23 +48,37 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
 </p>
 
 
-
-
-
 ## 🛠️ Skills and Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,java,scala,cpp,css,django,docker,eclipse,firebase,gcp,git,github,html,idea,java,js,kotlin,kubernetes,linux,mysql,nodejs,ps,py,vscode" />
-  </a>
-</p>
+
+### Programming Languages and Frameworks
+- **Frontend:**
+  ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JS](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+- **Backend:**
+  ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=py) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Scala](https://skillicons.dev/icons?i=scala) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Django](https://skillicons.dev/icons?i=django)
+
+### Database Technologies
+![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![MySQL](https://skillicons.dev/icons?i=mysql) ![DynamoDB](https://skillicons.dev/icons?i=dynamodb)
+
+### DevOps and Cloud Platforms
+![AWS](https://skillicons.dev/icons?i=aws) ![GCP](https://skillicons.dev/icons?i=gcp) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Linux](https://skillicons.dev/icons?i=linux) ![Jenkins](https://skillicons.dev/icons?i=jenkins)
+
+### Development Tools and Version Control
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Eclipse](https://skillicons.dev/icons?i=eclipse) ![Firebase](https://skillicons.dev/icons?i=firebase)
+
+### Advanced Data Technologies
+![Scala](https://simpleskill.icons.workers.dev/svg?i=scala) ![Snowflake](https://simpleskill.icons.workers.dev/svg?i=snowflake) ![Informatica](https://simpleskill.icons.workers.dev/svg?i=informatica) ![Tableau](https://simpleskill.icons.workers.dev/svg?i=tableau) ![Hadoop](https://simpleskill.icons.workers.dev/svg?i=apachehadoop) ![Spark](https://simpleskill.icons.workers.dev/svg?i=apachespark) ![PySpark](https://simpleskill.icons.workers.dev/svg?i=pyspark) ![Hive](https://simpleskill.icons.workers.dev/svg?i=apachehive)
 
 
-- **Programming Languages:** Java, Python, C, HTML, CSS, JavaScript, TypeScript, XML, SQL, Scala
-- **Frameworks:** Node.js, Express.js, Firebase, OpenCV, Spark, Django, Hadoop
-- **Tools:** GitHub, Jenkins, CI/CD, AWS, GCP, Docker, Kubernetes, Snowflake, Informatica PC, IICS
-- **Databases:** SQL Server, Cosmos DB, MariaDB, MongoDB, AWS Aurora, AWS Dynamo DB
-- **Miscellaneous:** Excel, Power BI, ServiceNow, TensorFlow, Rest APIs, Postman
-
+### Skills as JSON
+```json
+{
+  "Programming Languages": ["Java", "Python", "C", "HTML", "CSS", "JavaScript", "TypeScript", "XML", "SQL", "Scala"],
+  "Frameworks": ["Node.js", "Express.js", "Firebase", "OpenCV", "Spark", "Django", "Hadoop"],
+  "Tools": ["GitHub", "Jenkins", "CI/CD", "AWS", "GCP", "Docker", "Kubernetes", "Snowflake", "Informatica PC", "IICS"],
+  "Databases": ["SQL Server", "Cosmos DB", "MariaDB", "MongoDB", "AWS Aurora", "AWS Dynamo DB"],
+  "Miscellaneous": ["Excel", "Power BI", "ServiceNow", "TensorFlow", "REST APIs", "Postman"]
+}
+```
 ## 📚 Education
 
 - **Master of Science in Computer Science**  
