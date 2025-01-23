@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
 
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:nxm2555@mavs.uta.edu)
 [![Email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mhatrenikhil36@gmail.com)
-[![My GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ghost9933)
+[![My GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MhatreNikhil36)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nikhil-nandkumar-mhatre)
 [![Personal Website](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://nikhilmhatre.co)
 
@@ -33,18 +33,18 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
 
 <p align="left">
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghost9933&theme=github_dark" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MhatreNikhil36&theme=github_dark" alt="Profile Details" />
 </p>
 
 
 
 <p align="Left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghost9933&&count_private=true&?show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MhatreNikhil36&&count_private=true&?show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghost9933&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MhatreNikhil36&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 
