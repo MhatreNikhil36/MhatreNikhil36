@@ -64,16 +64,14 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
 </div>
 
 
-
-
-
 ## 🛠️ Skills and Tools
 
 ### Programming Languages and Frameworks
-- **Frontend:**
-  ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JS](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-- **Backend:**
-  ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=py) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Scala](https://skillicons.dev/icons?i=scala) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Django](https://skillicons.dev/icons?i=django)
+### **Frontend**  
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,bootstrap" height="40"/>
+
+###  **Backend**  
+<img src="https://skillicons.dev/icons?i=java,py,c,cpp,scala,nodejs,django" height="40"/>
 
 ### Database Technologies
 ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![MySQL](https://skillicons.dev/icons?i=mysql) ![DynamoDB](https://skillicons.dev/icons?i=dynamodb)
