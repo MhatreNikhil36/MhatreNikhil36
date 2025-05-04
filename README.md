@@ -39,22 +39,32 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
 
 ## 📊 GitHub Stats
 
+<div align="center" > 
+<div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MhatreNikhil36&theme=github_dark" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MhatreNikhil36&theme=github_dark" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MhatreNikhil36&theme=github_dark&utcOffset=8" width="32.5%">
+ 
+</div>
 
-<p align="left">
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MhatreNikhil36&theme=github_dark" alt="Profile Details" />
-</p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MhatreNikhil36&theme=github_dark" width="98%">
+
+ 
 
 
 
-<p align="Left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MhatreNikhil36&&count_private=true&?show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
-</p>
+<div style="display: flex; justify-content: space-between;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=MhatreNikhil36&count_private=true&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" width="48%"  />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MhatreNikhil36&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+
+</div>
+
+</div>
 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MhatreNikhil36&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
+
 
 
 ## 🛠️ Skills and Tools
