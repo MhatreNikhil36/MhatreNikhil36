@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
 
 
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Nikhil-Mhatre?theme=dark&extension=heatmap)]
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nikhil-Mhatre?theme=dark&extension=heatmap)
 
 ## 📊 GitHub Stats
 
