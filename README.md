@@ -28,14 +28,11 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
 [![Personal Website](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://nikhilmhatre.co)
 
 
+## 🧩 LeetCode Highlights
 
+<!-- ── 2. Consistency heat‑map ── -->
+<img src="https://leetcard.jacoblin.cool/Nikhil-Mhatre?ext=heatmap&theme=dark&border=false" width="95%">
 
-
-## 📊 leetcode Stats
-
-
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Nikhil-Mhatre?theme=dark&extension=heatmap)
 
 ## 📊 GitHub Stats
 
