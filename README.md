@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Comp
 [![Email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mhatrenikhil36@gmail.com)
 [![My GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MhatreNikhil36)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nikhil-nandkumar-mhatre)
-[![Personal Website](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://nikhilmhatre.co)
+[![Personal Website](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://mhatrenikhil36.github.io/me/)
 
 
 ## 🧩 LeetCode Highlights
